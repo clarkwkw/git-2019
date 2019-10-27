@@ -7,4 +7,4 @@ install:
 	$(PY_COMMAND) -m jupyter serverextension enable --py hide_code
 
 start:
-	$(PY_COMMAND) -m jupyter notebook
+	cd notebooks && $(PY_COMMAND) -m jupyter notebook
