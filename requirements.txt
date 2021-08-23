@@ -1,4 +1,4 @@
-jupyterlab==1.1.4
+jupyterlab==1.2.21
 hide_code==0.5.2
 sense-hat==2.2.0
 ipykernel==5.1.3
